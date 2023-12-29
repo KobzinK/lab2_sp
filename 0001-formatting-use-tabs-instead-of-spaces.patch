@@ -4,7 +4,7 @@ Date: Thu, 15 Nov 2018 15:26:35 +0200
 Subject: [PATCH] formatting: use tabs instead of spaces
 
 Signed-off-by: Sergii Piatakov <sergii.piatakov@globallogic.com>
-Signed-off-by: DanDatoChipu <roflancanek@gmail.com>
+Signed-off-by: KobzinK <kobzin2004@gmail.com>
 ---
  calculator.cpp | 6 +++++-
  calculator.h   | 6 +++---
@@ -22,7 +22,7 @@ index 34f8d05..68beaca 100644
  <<<<<<< HEAD
      return a + b;
  =======
- 	return a + b + 0.5;
+ 	return a + b + 1.5;
  >>>>>>> 4ad40a3 (fix truncation error)
 +=======
 +	return a + b;
