@@ -23,7 +23,7 @@ index b91afea..34f8d05 100644
 +<<<<<<< HEAD
      return a + b;
 +=======
-+	return a + b + 0.5;
++	return a + b + 1.5;
 +>>>>>>> 4ad40a3 (fix truncation error)
  }
  
